@@ -78,7 +78,8 @@ Scoreboards:
     - "&c&lૐ &8| &#6BFF2D&lR&#90FF62&la&#B5FF96&ln&#DAFFCB&lg&#FFFFFF&lo: %luckperms_prefix%"
     - "&c&lૐ &8| &#6BFF2D&lP&#9CFF73&li&#CEFFB9&ln&#FFFFFF&lg: &f%ping%"
     - '&c&lૐ &8| &#6BFF2D&lS&#90FF62&la&#B5FF96&ll&#DAFFCB&lu&#FFFFFF&ld: &f%life%/%lifeheart%'
-    - '&c&lૐ &8| &#6BFF2D&lT&#89FF57&li&#A6FF81&le&#C4FFAB&lm&#E1FFD5&lp&#FFFFFF&lo: &f%time%'
+    - '&c&lૐ &8| &#E25F7F&lA&#E45E7B&ls&#E65D76&le&#E85D72&ls&#EA5C6E&li&#ED5B69&ln&#EF5A65&la&#F15A61&lt&#F3595C&lo&#F55858&ls: &f%statistic_player_kills%'
+    - '&c&lૐ &8| &#6BFF2D&lT&#89FF57&li&#A6FF81&le&#C4FFAB&lm&#E1FFD5&lp&#FFFFFF&lo: &f%statistic_time_played%'
     - '&c&lૐ &8| &#6BFF2D&lE&#7AFF42&lx&#89FF57&lp&#97FF6C&le&#A6FF81&lr&#B5FF96&li&#C4FFAB&le&#D3FFC0&ln&#E1FFD5&lc&#F0FFEA&li&#FFFFFF&la: &f%xp%'
     - '%blank%'
     - '&c&lૐ &8| &#C8711E&lC&#CD6F24&lo&#D16C2A&lo&#D66A2F&lr&#DA6735&ld&#DF653B&le&#E36241&ln&#E86047&la&#EC5D4C&ld&#F15B52&la&#F55858&ls:'

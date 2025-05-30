@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748620937616
+  logout: 1748623309352
   login: 1748621649998
 money: '0'
 last-account-name: Kabuki
@@ -24,11 +24,11 @@ nickname: §4§lKabuki
 logoutlocation:
   world: 6b511bd6-a552-4f5d-aef5-56a43cc22fcb
   world-name: world
-  x: -358.86928674146225
-  y: 67.0
-  z: 745.6956247021222
-  yaw: 40.5499267578125
-  pitch: -33.149898529052734
+  x: -369.75401657833544
+  y: 68.0
+  z: 748.5230880991409
+  yaw: -49.0498046875
+  pitch: 25.949626922607422
 lastlocation:
   world: 6b511bd6-a552-4f5d-aef5-56a43cc22fcb
   world-name: world
