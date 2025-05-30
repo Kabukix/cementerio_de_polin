@@ -1,0 +1,87 @@
+# VIPJOINMESSAGE VERSION: 4.0.1
+# Spigot: https://www.spigotmc.org/resources/vip-join-leave-message.40080/
+
+global:
+  messages:
+    join:
+      # DELAY IN SECONDS
+      delay: 2
+      # IF YOU TURN FALSE THIS OPTION, JOIN MESSAGES ARE DISABLED
+      enabled: true
+    quit:
+      # IF YOU TURN FALSE THIS OPTION, QUIT MESSAGES ARE DISABLED
+      enabled: true
+  # THIS IS THE WELCOME MESSAGE / INFO THAT THE PLAYER RECEIVES WHEN JOIN
+  welcome-message:
+    enabled: true
+    delay: 1
+    message:
+      - '&7'
+      - '&7&m-------------------------------------'
+      - '&c&l        SURVIVAL HARDCORE'
+      - '&e        '
+      - '&a        Bienvenido al servidor de Polin &c&lBETA'
+      - '        &eAventurare, construye y sobrevive de tus'
+      - '        &eenemigos porque aqui no hay amigos...'
+      - '&7&m-------------------------------------'
+
+# THIS IS THE JOIN AND QUIT MESSAGE TO PLAYERS WITH NO PERMISSIONS
+default:
+  join:
+    enabled: true
+    message: '&a✔ &7%player_name% &7se unio al mundo!'
+  quit:
+    enabled: true
+    message: '&c✘ &7%player_name% &7se ha salido del mundo!'
+
+# THIS IS THE JOIN AND QUIT MESSAGE TO PLAYERS WITH PERMISSIONS (vjm.join.rank) (vjm.quit.rank)
+# NOW SUPPORTS PRIORITIES AND PLACEHOLDERAPI https://www.spigotmc.org/resources/placeholderapi.6245/
+ranks:
+  join:
+    enabled: false
+    messages:
+      admin: '&4[ADMIN] %player_name% &6joined the lobby!'
+      mod: '&c[MOD] %player_name% &6joined the lobby!'
+      mvp: '&b[MVP] %player_name% &6joined the lobby!'
+      vip: '&a[VIP] %player_name% &6joined the lobby!'
+      random: '%luckperms_prefix% %player_name% &6joined the lobby!'
+      vote: '&f[VOTE] &c%player_name% &fjoined the lobby!'
+  quit:
+    enabled: false
+    messages:
+      admin: '&4[ADMIN] %player_name% &6left the lobby!'
+      mod: '&c[MOD] %player_name% &6left the lobby!'
+      mvp: '&b[MVP] %player_name% &6left the lobby!'
+      vip: '&a[VIP] %player_name% &6left the lobby!'
+      random: '%luckperms_prefix% %player_name% &6left the lobby!'
+      vote: '&f[VOTE] &c%player_name% &fleft the lobby!'
+
+# THIS IS THE PLUGIN MESSAGES
+messages:
+  reloaded: '&c&l[VJM] &aPlugin reloaded!'
+  error: '&c&l[VJM] &4There was an error, contact an administrator'
+  arguments-error: '&c&l[VJM] &4You need more arguments, choose &7<default,ranks,global>&4 and &7<join,quit>'
+  default:
+    join:
+      enabled: '&c&l[VJM] &aJoin&7 messages from &6Default&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &aJoin&7 messages from &6Default&7 has been &cDisabled&7.'
+    quit:
+      enabled: '&c&l[VJM] &cQuit&7 messages from &6Default&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &cQuit&7 messages from &6Default&7 has been &cDisabled&7.'
+  ranks:
+    join:
+      enabled: '&c&l[VJM] &aJoin&7 messages from &dRanks&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &aJoin&7 messages from &dRanks&7 has been &cDisabled&7.'
+    quit:
+      enabled: '&c&l[VJM] &cQuit&7 messages from &dRanks&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &cQuit&7 messages from &dRanks&7 has been &cDisabled&7.'
+  global:
+    join:
+      enabled: '&c&l[VJM] &aJoin&7 messages from &bGlobal&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &aJoin&7 messages from &bGlobal&7 has been &cDisabled&7.'
+    quit:
+      enabled: '&c&l[VJM] &cQuit&7 messages from &bGlobal&7 has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &cQuit&7 messages from &bGlobal&7 has been &cDisabled&7.'
+    welcome:
+      enabled: '&c&l[VJM] &9Welcome&7 messages has been &aEnabled&7.'
+      disabled: '&c&l[VJM] &9Welcome&7 messages has been &cDisabled&7.'

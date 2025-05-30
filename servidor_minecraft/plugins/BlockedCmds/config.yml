@@ -1,0 +1,6 @@
+BLOCKED_COMMANDS:
+- /pl
+- /plugins
+- /bukkit:plugins
+- /bukkit:?
+- /?

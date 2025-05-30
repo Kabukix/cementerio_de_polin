@@ -1,0 +1,3 @@
+PREFIX: '&8[&cBlockedCmds&8] '
+BLOCKED_CMD: '&cThis command is currently blocked by staff.'
+NO_PERMISSION: '&cYou do not have permission to execute this command.'

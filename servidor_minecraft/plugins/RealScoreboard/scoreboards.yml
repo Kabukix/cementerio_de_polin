@@ -1,0 +1,89 @@
+#✦------------------------------------------------------✦
+#|                   Scoreboard Config                   |
+#✦------------------------------------------------------✦
+# RealScoreboard created by joserodpt and maintained by Neziw
+# Parameter explanation:
+# - Default: if the scoreboard is the default one, doesn't require a permission
+# - Default-World: the default world where the scoreboard appears
+# - Display-Name: used for GUI and other purposes.
+# - Refresh-Scoreboard: the main refresh delay for the whole scoreboard
+# - Refresh-Title: refresh delay only for the scoreboard title
+# - Title-Loop-Delay: loop delay for the title animation task
+# - Board-Loop-Delay: loop delay for the bards switching task (if the scoreboard has multiple boards)
+Version: 3
+Scoreboards:
+  default:
+    Default: false
+    Default-World: world
+    Other-Worlds:
+    - '*'
+    Display-Name: '&fDefault Board'
+    Permission: none
+    Refresh:
+      Scoreboard: 5
+      Title: 10
+      Title-Loop-Delay: 5
+      Board-Loop-Delay: 30
+    Boards:
+      Board1:
+        Title:
+        - '&bRealScoreBoard'
+        - '&6> &9RealScoreBoard &6<'
+        - '&a>&6> &bRealScoreBoard &6<&a<'
+        - '&6> &9RealScoreBoard &6<'
+        Lines:
+        - '%blank%'
+        - ' &7Name: &f%playername% &8| &f%ping%'
+        - ' &f%day% &8| &f%time%'
+        - ' &7Money: &f%money% &8| &7XP: &f%xp%'
+        - ' &7Location:'
+        - ' &fX %x% Y %y% Z %z%'
+        - '%blank%'
+        - '  &fThis is Board &e#1'
+        - '%blank%'
+        - ' &7RAM: &f%ram%'
+        - ' &7Online: &f%online%&8/&f%maxplayers%'
+        - '%blank%'
+      Board2:
+        Title:
+        - '&bStatistics &aBoard'
+        - '&aStatistics &bBoard'
+        Lines:
+        - '%blank%'
+        - ' &7Stats'
+        - '  &fKills: %kills% &7| &fKD: %kd%'
+        - '  Mob Kills: %mobkills%'
+        - '  Deaths: %deaths%'
+        - '  Jumps: %jumps%'
+        - '%blank%'
+        - ' &fThis is Board &e#2'
+        - '%blank%'
+  test:
+    Default: true
+    Default-World: world
+    Other-Worlds:
+    - coolWorld
+    Display-Name: '&aTest Board'
+    Permission: realscoreboard.testboard
+    Refresh:
+      Scoreboard: 1
+      Title: 20
+      Title-Loop-Delay: 10
+    Title:
+    - '{#DAF7A6}&lSURVIVAL {#c58286}&lHARDCORE'
+    Lines:
+    - '%blank%'
+    - "&6&lINFORMACION:"
+    - '&c&lૐ &8| &#6BFF2D&lU&#84FF50&ls&#9CFF73&lu&#B5FF96&la&#CEFFB9&lr&#E6FFDC&li&#FFFFFF&lo: &f%essentials_nickname%'
+    - "&c&lૐ &8| &#6BFF2D&lR&#90FF62&la&#B5FF96&ln&#DAFFCB&lg&#FFFFFF&lo: %luckperms_prefix%"
+    - "&c&lૐ &8| &#6BFF2D&lP&#9CFF73&li&#CEFFB9&ln&#FFFFFF&lg: &f%ping%"
+    - '&c&lૐ &8| &#6BFF2D&lS&#90FF62&la&#B5FF96&ll&#DAFFCB&lu&#FFFFFF&ld: &f%life%/%lifeheart%'
+    - '&c&lૐ &8| &#6BFF2D&lT&#89FF57&li&#A6FF81&le&#C4FFAB&lm&#E1FFD5&lp&#FFFFFF&lo: &f%time%'
+    - '&c&lૐ &8| &#6BFF2D&lE&#7AFF42&lx&#89FF57&lp&#97FF6C&le&#A6FF81&lr&#B5FF96&li&#C4FFAB&le&#D3FFC0&ln&#E1FFD5&lc&#F0FFEA&li&#FFFFFF&la: &f%xp%'
+    - '%blank%'
+    - '&c&lૐ &8| &#C8711E&lC&#CD6F24&lo&#D16C2A&lo&#D66A2F&lr&#DA6735&ld&#DF653B&le&#E36241&ln&#E86047&la&#EC5D4C&ld&#F15B52&la&#F55858&ls:'
+    - ""
+    - "&fX %x%, Y %y%, Z %z%"
+    - ""
+    - '&c&lૐ &8| &#B05FE2&lC&#B85ED3&lo&#BF5DC3&ln&#C75DB4&le&#CF5CA5&lc&#D65B95&lt&#DE5A86&la&#E65A77&ld&#ED5967&lo&#F55858&ls: &f%online%/%maxplayers%'
+    - '%blank%'

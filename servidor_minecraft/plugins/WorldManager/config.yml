@@ -1,0 +1,19 @@
+# USE: %worldmanager_world% VARIABLE TO ADD PLACEHOLDERAPI (CURRENT PLAYER WORLD)
+
+
+noPermission: "&cNo tienes permiso para ejecutar este comando."
+worldInfoHeader: "&aInformación del mundo:"
+worldName: "&aNombre del mundo: %world%"
+worldSeed: "&aSemilla del mundo: %seed%"
+worldAlreadyImported: "&c¡Este mundo ya está importado!"
+worldNotFound: "&c¡No se pudo encontrar el mundo '%world%'!"
+importFailed: "&c¡Error al importar el mundo '%world%'!"
+playerNotFound: "&c¡Jugador no encontrado!"
+playerTeleported: "&a¡%player% ha sido teletransportado al mundo '%world%'!"
+onlyPlayers: "&cEste comando solo puede ser ejecutado por jugadores."
+invalidUsage: "&cUso inválido. Por favor, usa /wm <comando>"
+importedWorlds: []
+
+# USE: worldmanager.access.(WorldName) to add the permission to the group or player, in case you have locked the world with the command /wm worldblock (worldname) add this permission.
+# The list will appear here once you have blocked a world
+

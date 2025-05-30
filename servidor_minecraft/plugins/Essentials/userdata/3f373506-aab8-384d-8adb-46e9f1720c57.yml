@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.6.2.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729835750457
+  login: 1729834284935
+money: '0'
+last-account-name: Haizir0
+lastlocation:
+  world: 8a7642b5-14b5-4c2f-9dbb-f9c2882530fe
+  world-name: world
+  x: 467.8035388191031
+  y: 61.58312081048027
+  z: 98.6279184165395
+  yaw: 118.12214660644531
+  pitch: -5.94085693359375
+logoutlocation:
+  world: 8a7642b5-14b5-4c2f-9dbb-f9c2882530fe
+  world-name: world
+  x: 357.6993913274759
+  y: 65.24918707874468
+  z: 168.87100598340405
+  yaw: 15.103147506713867
+  pitch: -4.069325923919678

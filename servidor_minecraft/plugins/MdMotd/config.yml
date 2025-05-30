@@ -1,0 +1,11 @@
+# MD MOTD PLEASE RATE THIS PLUGIN
+Motd:
+  Line1: "         &f&lCEMENTERIO &f&lDE &6&lPOLIN &e&lMC"
+  Line2: "     &3&lSURVIVAL  + MODS &4&lHARDCORE &6(&e&l1.20.4)"
+Maintenance:
+  Mode: false
+  Line1: "&4§lMaintenance"
+  Line2: "§cServer is under maintenance"
+MaxPlayer:
+  Classic: false # One seed will be added to Max Player for each person who joins
+  MaxPlayer: 2000
