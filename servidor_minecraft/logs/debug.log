@@ -17036,3 +17036,7 @@ A newer version of DecentHolograms is available. Download it from:
 [31May2025 23:03:55.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki lost connection: Disconnected
 [31May2025 23:03:55.374] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kabuki
 [31May2025 23:03:55.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kabuki
+[31May2025 23:06:47.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 23:06:47.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 23:11:47.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 23:11:47.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
