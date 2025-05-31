@@ -460,3 +460,4 @@
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
 [05-31 04:55:24]: [FINE] Kabuki logged in 127.11.55.235
+[05-31 05:36:47]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!

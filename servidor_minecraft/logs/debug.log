@@ -18869,3 +18869,139 @@ A newer version of DecentHolograms is available. Download it from:
 [31May2025 05:27:24.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
 [31May2025 05:29:42.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [31May2025 05:29:42.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:32:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 05:32:08.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 05:35:30.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /kick Kabuki xd
+[31May2025 05:35:41.688] [Server thread/INFO] [Essentials/]: CONSOLE issued server command: /kick Kabuki xd
+[31May2025 05:35:41.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki lost connection: xd
+[31May2025 05:35:41.692] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kabuki
+[31May2025 05:35:41.692] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kabuki
+[31May2025 05:35:41.721] [Server thread/INFO] [Essentials/]: ᴘʟᴀʏᴇʀ §xConsole ᴋɪᴄᴋᴇᴅ Kabuki ꜰᴏʀ §xxd
+[31May2025 05:35:41.741] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 05:36:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31May2025 05:36:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 05:36:47.685] [Server thread/INFO] [packetevents/]: Disabling packetevents v2.8.0
+[31May2025 05:36:47.688] [Server thread/INFO] [TAB/]: Disabling TAB v5.2.1
+[31May2025 05:36:47.689] [Server thread/INFO] [Console/]: [TAB] §xDisabled in 1ms
+[31May2025 05:36:47.691] [Server thread/INFO] [EssentialsChat/]: Disabling EssentialsChat v2.20.1
+[31May2025 05:36:47.692] [Server thread/INFO] [ItemEdit/]: Disabling ItemEdit v3.5.2
+[31May2025 05:36:47.692] [Server thread/INFO] [PlaceholderAPI/]: Unregistered placeholder expansion itemedit
+[31May2025 05:36:47.692] [Server thread/INFO] [PlaceholderAPI/]: Reason: required plugin ItemEdit was disabled.
+[31May2025 05:36:47.693] [Server thread/INFO] [RealScoreboard/]: Disabling RealScoreboard v1.5.4
+[31May2025 05:36:47.694] [Server thread/INFO] [AuthMe/]: Disabling AuthMe v5.6.0-bCUSTOM
+[31May2025 05:36:47.714] [Server thread/INFO] [AuthMe/]: Waiting for 0 tasks to finish
+[31May2025 05:36:47.715] [Server thread/INFO] [AuthMe/]: AuthMe 5.6.0-bCUSTOM disabled!
+[31May2025 05:36:47.716] [Server thread/INFO] [TrollV4/]: Disabling TrollV4 v4.5.29
+[31May2025 05:36:47.717] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[31May2025 05:36:47.717] [Server thread/INFO] [Vault/]: [Economy] Essentials Economy unhooked.
+[31May2025 05:36:47.719] [Server thread/INFO] [Vault/]: Disabling Vault v1.7.3-b131
+[31May2025 05:36:47.719] [Server thread/INFO] [PlaceholderAPI/]: Unregistered placeholder expansion vault
+[31May2025 05:36:47.719] [Server thread/INFO] [PlaceholderAPI/]: Reason: required plugin Vault was disabled.
+[31May2025 05:36:47.720] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.4
+[31May2025 05:36:47.723] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[31May2025 05:36:47.726] [Server thread/INFO] [VJM/]: Disabling VIPJoinMessage v4.0.1
+[31May2025 05:36:47.726] [Server thread/INFO] [Console/]: [VJM] VIPJoinMessage disabled.
+[31May2025 05:36:47.726] [Server thread/INFO] [DecentHolograms/]: Disabling DecentHolograms v2.8.11
+[31May2025 05:36:47.728] [Server thread/INFO] [WorldManager/]: Disabling WorldManager v1.6
+[31May2025 05:36:47.728] [Server thread/INFO] [Console/]: [WorldManager] FINALIZADO. Gracias por usar el plugin (1.6) Created By: TheLuchooPDM
+[31May2025 05:36:47.728] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.144
+[31May2025 05:36:47.728] [Server thread/INFO] [PlaceholderAPI/]: Unregistered placeholder expansion luckperms
+[31May2025 05:36:47.728] [Server thread/INFO] [PlaceholderAPI/]: Reason: required plugin LuckPerms was disabled.
+[31May2025 05:36:47.730] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[31May2025 05:36:47.733] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[31May2025 05:36:47.768] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[31May2025 05:36:47.768] [Server thread/INFO] [ViaRewind/]: Disabling ViaRewind v4.0.7
+[31May2025 05:36:47.769] [Server thread/INFO] [ViaBackwards/]: Disabling ViaBackwards v5.3.2
+[31May2025 05:36:47.769] [Server thread/INFO] [StaffPlus/]: Disabling StaffPlus v3.3.14.2
+[31May2025 05:36:47.769] [Server thread/INFO] [Console/]: [Staff+] Staff+ is now disabling!
+[31May2025 05:36:47.786] [Server thread/INFO] [ViaVersion/]: Disabling ViaVersion v5.3.2
+[31May2025 05:36:47.786] [Server thread/INFO] [ViaVersion/]: ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[31May2025 05:36:47.787] [Server thread/INFO] [ViaVersion/]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[31May2025 05:36:47.788] [Server thread/INFO] [NoteBlockAPI/]: Disabling NoteBlockAPI v1.6.3
+[31May2025 05:36:47.788] [Server thread/INFO] [MdMotd/]: Disabling MdMotd v1.9
+[31May2025 05:36:47.788] [Server thread/INFO] [LibsDisguises/]: Disabling LibsDisguises v11.0.6
+[31May2025 05:36:47.789] [Server thread/ERROR] [Minecraft/]: Error occurred while disabling LibsDisguises v11.0.6 (Is it up to date?)
+java.lang.VerifyError: Instruction type does not match stack map
+Exception Details:
+  Location:
+    me/libraryaddict/disguise/utilities/DisguiseUtilities.adjustNamePositions(Lme/libraryaddict/disguise/disguisetypes/Disguise;Ljava/util/List;)Ljava/util/List; @359: aload_3
+  Reason:
+    Type 'com/github/retrooper/packetevents/wrapper/play/server/WrapperPlayServerEntityPositionSync' (current frame, locals[12]) is not assignable to 'com/github/retrooper/packetevents/wrapper/PacketWrapper' (stack map, locals[12])
+  Current Frame:
+    bci: @359
+    flags: { }
+    locals: { 'me/libraryaddict/disguise/disguisetypes/Disguise', 'java/util/List', integer, 'java/util/ArrayList', double, double_2nd, double, double_2nd, 'java/util/Iterator', 'com/github/retrooper/packetevents/wrapper/PacketWrapper', integer, integer, 'com/github/retrooper/packetevents/wrapper/play/server/WrapperPlayServerEntityPositionSync', double, double_2nd, 'com/github/retrooper/packetevents/wrapper/play/server/WrapperPlayServerEntityPositionSync', 'com/github/retrooper/packetevents/protocol/entity/EntityPositionData' }
+    stack: { }
+  Stackmap Frame:
+    bci: @359
+    flags: { }
+    locals: { 'me/libraryaddict/disguise/disguisetypes/Disguise', 'java/util/List', integer, 'java/util/ArrayList', double, double_2nd, double, double_2nd, 'java/util/Iterator', 'com/github/retrooper/packetevents/wrapper/PacketWrapper', integer, integer, 'com/github/retrooper/packetevents/wrapper/PacketWrapper', double, double_2nd }
+    stack: { }
+  Bytecode:
+    0000000: 2ab6 02b5 3d1c 9a00 0501 b0bb 02b7 59b7
+    0000010: 02b8 4e2a b602 bb2a b602 bfb6 02c4 8d63
+    0000020: 3904 2ab6 02c7 3906 1804 1806 6b39 0418
+    0000030: 04b8 02c9 1806 0f67 6b14 02ca 6b63 3904
+    0000040: 2bb9 0101 0100 3a08 1908 b901 0601 0099
+    0000050: 0128 1908 b901 0a01 00c0 02cd 3a09 1909
+    0000060: c102 cf99 0006 a7ff e203 360a 150a 1ca2
+    0000070: 0105 2ab6 02d3 150a 2e36 0b18 04b8 02c9
+    0000080: 150a 876b 6339 0d19 09c1 02d5 9900 3319
+    0000090: 09c0 02d5 3a0f bb02 d559 150b 190f b602
+    00000a0: d60e 180d 0eb6 02d9 190f b602 da19 0fb6
+    00000b0: 02db 190f b602 deb7 02e1 3a0c a700 ab19
+    00000c0: 09c1 02e3 9900 3619 09c0 02e3 3a0f bb02
+    00000d0: e359 150b 190f b602 e619 0fb6 02e9 190f
+    00000e0: b602 ec19 0fb6 02ed 190f b602 ee19 0fb6
+    00000f0: 02ef b702 f23a 0ca7 0070 1909 c102 f499
+    0000100: 002c 1909 c002 f43a 0fbb 02f4 5915 0b19
+    0000110: 0fb6 02f5 190f b602 f619 0fb6 02f7 190f
+    0000120: b602 f8b7 02fb 3a0c a700 3f19 09c1 02fd
+    0000130: 9900 3e19 09c0 02fd 3a0f 190f b603 01b8
+    0000140: 0303 3a10 1910 1910 b602 8c0e 180d 0eb6
+    0000150: 02d9 b603 07bb 02fd 5915 0b19 1019 0fb6
+    0000160: 0308 b703 0b3a 0c2d 190c b603 0c57 840a
+    0000170: 01a7 fefb a7fe d42d b0                 
+  Stackmap Table:
+    append_frame(@11,Integer)
+    full_frame(@72,{Object[#690],Object[#253],Integer,Object[#695],Double,Double,Object[#259]},{})
+    append_frame(@105,Object[#717])
+    append_frame(@108,Integer)
+    append_frame(@191,Integer,Top,Double)
+    same_frame(@250)
+    same_frame(@299)
+    full_frame(@359,{Object[#690],Object[#253],Integer,Object[#695],Double,Double,Object[#259],Object[#717],Integer,Integer,Object[#717],Double},{})
+    chop_frame(@366,3)
+    chop_frame(@372,2)
+    chop_frame(@375,1)
+
+	at me.libraryaddict.disguise.LibsDisguises.onDisable(LibsDisguises.java:543) ~[?:?] {}
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:268) ~[arclight-1.20.1-1.0.6-4e94eb76.jar%23204!/:arclight-1.20.1-1.0.6-4e94eb76] {re:mixin,re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginMixin,pl:mixin:A,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoaderMixin.java:367) ~[arclight-1.20.1-1.0.6-4e94eb76.jar%23204!/:arclight-1.20.1-1.0.6-4e94eb76] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginLoaderMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[arclight-1.20.1-1.0.6-4e94eb76.jar%23204!/:arclight-1.20.1-1.0.6-4e94eb76] {re:mixin,re:classloading,re:mixin,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[arclight-1.20.1-1.0.6-4e94eb76.jar%23204!/:arclight-1.20.1-1.0.6-4e94eb76] {re:mixin,re:classloading,re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.disablePlugins(CraftServerMixin.java:480) ~[arclight-1.20.1-1.0.6-4e94eb76.jar%23204!/:arclight-1.20.1-1.0.6-4e94eb76] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.minecraft.server.MinecraftServer.handler$zfi000$arclight$unloadPlugins(MinecraftServerMixin.java:2131) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServerMixin.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServerMixin.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:APP:lithostitched.mixins.json:server.DedicatedServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2099) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+[31May2025 05:36:47.790] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[31May2025 05:36:47.790] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[31May2025 05:36:47.790] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[31May2025 05:36:47.791] [Server thread/INFO] [BlockedCmds/]: Disabling BlockedCmds v2.1.4
+[31May2025 05:36:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 05:36:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 05:36:48.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 05:36:50.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 05:36:50.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 05:36:50.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[31May2025 05:36:50.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[31May2025 05:36:50.815] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31May2025 05:36:50.816] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31May2025 05:36:50.817] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[31May2025 05:36:50.817] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[31May2025 05:36:50.823] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[#24,JLine Shutdown Hook,5,main]
+[31May2025 05:36:55.825] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, bStats-Metrics, bStats-Metrics, bStats-Metrics, bStats-Metrics, bStats-Metrics, bStats-Metrics, pool-15-thread-1 not shutting down
+[31May2025 05:36:55.825] [Exit Thread/INFO] [Arclight/]: 9 threads not shutting down correctly, force exiting
