@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 1748620874262
+  lastteleport: 1748667629503
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1748623309352
-  login: 1748621649998
+  login: 1748667308688
 money: '0'
 last-account-name: Kabuki
 nickname: §4§lKabuki
@@ -30,10 +30,10 @@ logoutlocation:
   yaw: -49.0498046875
   pitch: 25.949626922607422
 lastlocation:
-  world: 6b511bd6-a552-4f5d-aef5-56a43cc22fcb
+  world: 84922a80-ecb1-4646-8c18-80a815eff9e2
   world-name: world
-  x: -362.56051563118695
-  y: 65.0
-  z: 733.3631039429349
-  yaw: 137.2999267578125
-  pitch: 23.100130081176758
+  x: 270.8403072685653
+  y: 84.0
+  z: -2037.0934774362206
+  yaw: 156.48297119140625
+  pitch: 1.5828545093536377

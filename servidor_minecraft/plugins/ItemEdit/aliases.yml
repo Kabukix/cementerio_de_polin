@@ -44,6 +44,25 @@ enchant:
   breach: breach
   wind_burst: wind_burst
   ae_glow: ae_glow
+  straddle_jump: straddle_jump
+  reclaimed: reclaimed
+  accelerator: accelerator
+  waterproof: waterproof
+  hot_barrel: hot_barrel
+  lavawax: lavawax
+  heavy_shot: heavy_shot
+  serpentfriend: serpentfriend
+  elemental_pop: elemental_pop
+  puncturing: puncturing
+  board_return: board_return
+  lightweight: lightweight
+  trigger_finger: trigger_finger
+  shell_catcher: shell_catcher
+  beast_slayer: beast_slayer
+  launch: launch
+  collateral: collateral
+  banzai: banzai
+  quick_hands: quick_hands
 banner_pattern:
   square_bottom_left: bottom_left_corner
   square_bottom_right: bottom_right_corner
@@ -174,6 +193,29 @@ potion_effect:
   bad_omen: bad_omen
   hero_of_the_village: hero_of_the_village
   darkness: darkness
+  libraryferret_unbreakable_curse: libraryferret_unbreakable_curse
+  alexsmobs_knockback_resistance: alexsmobs_knockback_resistance
+  alexsmobs_lava_vision: alexsmobs_lava_vision
+  alexsmobs_sunbird_blessing: alexsmobs_sunbird_blessing
+  alexsmobs_sunbird_curse: alexsmobs_sunbird_curse
+  alexsmobs_poison_resistance: alexsmobs_poison_resistance
+  alexsmobs_oiled: alexsmobs_oiled
+  alexsmobs_orcas_might: alexsmobs_orcas_might
+  alexsmobs_bug_pheromones: alexsmobs_bug_pheromones
+  alexsmobs_soulsteal: alexsmobs_soulsteal
+  alexsmobs_clinging: alexsmobs_clinging
+  alexsmobs_ender_flu: alexsmobs_ender_flu
+  alexsmobs_fear: alexsmobs_fear
+  alexsmobs_tigers_blessing: alexsmobs_tigers_blessing
+  alexsmobs_debilitating_sting: alexsmobs_debilitating_sting
+  alexsmobs_exsanguination: alexsmobs_exsanguination
+  alexsmobs_earthquake: alexsmobs_earthquake
+  alexsmobs_fleet_footed: alexsmobs_fleet_footed
+  alexsmobs_power_down: alexsmobs_power_down
+  alexsmobs_mosquito_repellent: alexsmobs_mosquito_repellent
+  luminousworld_universal_poison: luminousworld_universal_poison
+  scguns_blinded: scguns_blinded
+  scguns_deafened: scguns_deafened
 color:
   white: white
   orange: orange

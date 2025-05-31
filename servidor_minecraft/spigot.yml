@@ -16,10 +16,10 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
+  log: true
   tab-complete: 0
   send-namespaced: true
 settings:
@@ -27,8 +27,6 @@ settings:
   player-shuffle: 0
   user-cache-size: 1000
   save-user-cache-on-stop-only: false
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -43,6 +41,8 @@ settings:
   log-villager-deaths: true
   log-named-deaths: true
   debug: false
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
   bungeecord: false
 advancements:
   disable-saving: false
@@ -54,6 +54,7 @@ world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     verbose: true
+    simulation-distance: default
     zombie-aggressive-towards-villager: true
     merge-radius:
       exp: 3.0
@@ -133,10 +134,9 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    view-distance: default
-    item-despawn-rate: 6000
     nerf-spawner-mobs: false
-    simulation-distance: default
+    item-despawn-rate: 6000
+    view-distance: default
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
