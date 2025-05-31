@@ -12176,3 +12176,15 @@ A newer version of DecentHolograms is available. Download it from:
 [31May2025 05:16:55.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [31May2025 05:20:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has made the advancement [Acquire Hardware]
 [31May2025 05:20:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has made the advancement [Diamonds!]
+[31May2025 05:22:09.484] [Server thread/ERROR] [LibsDisguises/]: An update for PacketEvents has been downloaded and will be installed when the server restarts. When possible, please restart the server. Lib's Disguises may not work correctly until you do so.
+[31May2025 05:22:45.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 0
+[31May2025 05:22:51.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
+[31May2025 05:23:47.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 0
+[31May2025 05:24:13.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
+[31May2025 05:24:52.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 0
+[31May2025 05:25:01.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /fly
+[31May2025 05:25:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has made the advancement [Monster Hunter]
+[31May2025 05:26:12.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /heal
+[31May2025 05:27:24.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
+[31May2025 05:29:42.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:29:42.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
