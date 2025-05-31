@@ -12130,3 +12130,49 @@ A newer version of DecentHolograms is available. Download it from:
 [31May2025 05:10:25.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 0
 [31May2025 05:10:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has reached the goal [Postmortal]
 [31May2025 05:10:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki was slain by Iron Golem
+[31May2025 05:10:40.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
+[31May2025 05:14:54.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 0
+[31May2025 05:14:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki fell from a high place
+[31May2025 05:15:09.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kabuki issued server command: /gm 1
+[31May2025 05:15:20.191] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:52.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:53.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:54.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:16:55.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 05:20:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has made the advancement [Acquire Hardware]
+[31May2025 05:20:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kabuki has made the advancement [Diamonds!]
